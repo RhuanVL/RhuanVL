@@ -11,6 +11,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhuanvl&theme=blue-green)](https://git.io/streak-stats)
 
+[![rhuanvl's github activity graph](https://activity-graph.herokuapp.com/graph?username=rhuanvl&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### Most used technologies:
 
