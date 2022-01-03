@@ -9,6 +9,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanvl&layout=compact&theme=blue-green)](https://github.com/RhuanVL?tab=repositories)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhuanvl&theme=blue-green)](https://git.io/streak-stats)
+
+
 ### Most used technologies:
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
