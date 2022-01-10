@@ -1,15 +1,18 @@
 ### Hello, I am Rhuan Lemes ☺️👋
+I like to code and share it in my profile.
+
+Follow me in my Github.
 
 [![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://github.com/RhuanVL?tab=repositories)  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/RhuanVL) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-lemes-a93934196/) [![Linkedin](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.com/channels/Rhuan#9181) 
 
 
-![Rhuan GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuanvl&show_icons=true&theme=blue-green)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanvl&layout=compact&theme=blue-green)](https://github.com/RhuanVL?tab=repositories)
+![Rhuan GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuanvl&show_icons=true&theme=blue-green) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhuanvl&theme=blue-green)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanvl&layout=compact&theme=blue-green)](https://github.com/RhuanVL?tab=repositories)
 
 [![rhuanvl's github activity graph](https://activity-graph.herokuapp.com/graph?username=rhuanvl&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
