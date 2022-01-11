@@ -1,4 +1,4 @@
-### Hello, I am Rhuan Lemes ☺️👋
+### Hello, I am Rhuan Lemes 👋
 I like to code and share it in my profile.
 
 Follow me in my Github.
