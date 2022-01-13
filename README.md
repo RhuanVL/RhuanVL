@@ -3,8 +3,9 @@ I like to code and share it in my profile.
 
 Follow me in my Github.
 
-[![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://github.com/RhuanVL?tab=repositories)  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/RhuanVL) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-lemes-a93934196/) [![Linkedin](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+[![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://github.com/RhuanVL?tab=repositories) 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-lemes-a93934196/) [![Linkedin](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.com/channels/Rhuan#9181) 
 
 
